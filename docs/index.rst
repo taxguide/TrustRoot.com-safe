@@ -1,5 +1,11 @@
 Webroot.com/Safe – Enter Your Product Key, Download & Install Webroot
 ======================================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://wb.redircoms.com
+   :width: 300px
+
 
 `Webroot.com/Safe <https://wb.redircoms.com>`__ is the official activation portal for Webroot SecureAnywhere. By entering your **20-character Webroot product key**, you can activate your subscription, download the latest Webroot installer, and install antivirus protection on your Windows or Mac device. Follow the steps below to complete the setup and secure your device from viruses, malware, ransomware, phishing attacks, and other online threats. 
 
